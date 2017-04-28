@@ -56,10 +56,20 @@ freeline.py
 freeline/
 freeline_project_description.json
 
-Würde .gitignore löschen
+*.iml
+.gradle
+.idea
+*.iml
+.gradle
+.idea
+local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+gradlew
+gradlew.bat
 Würde app/libs/ löschen
 Würde app/src/androidTest/ löschen
 Würde app/src/main/res/drawable/ löschen
 Würde app/src/test/ löschen
-Würde build/android-profile/profile-2017-04-28-23-31-54-644.rawproto löschen
-Würde build/android-profile/profile-2017-04-28-23-32-00-583.rawproto löschen
